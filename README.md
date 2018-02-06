@@ -1,6 +1,7 @@
-# TF-PyTorch_Examples
-Code written while learning ML/Deep Learning frameworks Tensorflow and PyTorch
+# Optimization & ML APIs and algorithms
+Code samples referred and developed while learning ML/Deep Learning frameworks SKLearn, Tensorflow and PyTorch
 
-Follow `https://github.com/aymericdamien/TensorFlow-Examples` for complete set of intro tutorials on TF. It's a very good starting point.
-
-
+Brief Overview:
+1. Implementations of Optimization algorithms.
+2. Resources and APIs that are referred during the learning process.
+3. Final analysis and deductions.
